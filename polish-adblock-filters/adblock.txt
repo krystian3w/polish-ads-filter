@@ -810,6 +810,7 @@ cyfrowypolsatnews.pl##strong > .panel:nth-of-type(3)
 cypr24.eu##.post_before_content-ads, .theiaStickySidebar
 cypr24.eu#?#.elementor-widget-wrap:-abp-has(h6:-abp-contains(REKLAMA))
 czajna.pl##article.contain_im_grid.inf_scr_item.small_post.repick_item:nth-of-type(2), .mediad_wrap_pad
+czasciechanowa.pl#?#.et_pb_module:-abp-has(> .et_pb_code_inner:-abp-contains(Reklama))
 czasdzieci.pl##.adlabel, .banSetBox, .a_dslot
 czaskultury.pl#?#div.row > .col-md-12 > .line-header > span:-abp-contains(Reklama)
 czateria.interia.pl##.video-player-container, #IPLAbanner
